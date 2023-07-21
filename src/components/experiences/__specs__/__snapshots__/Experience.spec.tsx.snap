@@ -477,7 +477,25 @@ exports[`test experiences component verify snapshot for tablet or lesser size di
             <p
               class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
             >
-              Working on Next Big Thing
+              Working at Amazon Device OS Team for building new frontend framework for Amazon devices by extending React Native to support Amazon Devices operating system like Amazon Alexa Echo, Echo Show, FireTV etc.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Building core and complex common React Native components library for 2P and 3P developers for Amazon Devices operating system.
+            </p>
+          </li>
+          <li
+            style="text-align: justify;"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2 css-1ip9kmw-MuiTypography-root"
+            >
+              Build a SVG rendering library from Scratch like react-native-svg for Amazon Devices operating system using React Native and C++.
             </p>
           </li>
         </ul>

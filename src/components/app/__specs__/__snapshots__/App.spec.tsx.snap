@@ -654,7 +654,7 @@ exports[`should verify the snapshot for dark mode 1`] = `
               <p
                 class="MuiTypography-root MuiTypography-body1 css-1tlvbra-MuiTypography-root"
               >
-                I'm a full stack software engineer having almost 3 years of experience developing and delivering which are handling millions of users daily. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
+                I'm a full stack software engineer having almost 4+ years of experience developing and delivering which are handling millions of users daily. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
               </p>
             </div>
           </div>
@@ -738,7 +738,25 @@ exports[`should verify the snapshot for dark mode 1`] = `
                   <p
                     class="MuiTypography-root MuiTypography-body2 css-1chm2gf-MuiTypography-root"
                   >
-                    Working on Next Big Thing
+                    Working at Amazon Device OS Team for building new frontend framework for Amazon devices by extending React Native to support Amazon Devices operating system like Amazon Alexa Echo, Echo Show, FireTV etc.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-1chm2gf-MuiTypography-root"
+                  >
+                    Building core and complex common React Native components library for 2P and 3P developers for Amazon Devices operating system.
+                  </p>
+                </li>
+                <li
+                  style="text-align: justify;"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2 css-1chm2gf-MuiTypography-root"
+                  >
+                    Build a SVG rendering library from Scratch like react-native-svg for Amazon Devices operating system using React Native and C++.
                   </p>
                 </li>
               </ul>
@@ -4065,7 +4083,7 @@ exports[`should verify the snapshot for light mode 1`] = `
               <p
                 class="MuiTypography-root MuiTypography-body1 css-1tlvbra-MuiTypography-root"
               >
-                I'm a full stack software engineer having almost 3 years of experience developing and delivering which are handling millions of users daily. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
+                I'm a full stack software engineer having almost 4+ years of experience developing and delivering which are handling millions of users daily. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
               </p>
             </div>
           </div>
@@ -4192,7 +4210,25 @@ exports[`should verify the snapshot for light mode 1`] = `
                         <p
                           class="MuiTypography-root MuiTypography-body2 css-1chm2gf-MuiTypography-root"
                         >
-                          Working on Next Big Thing
+                          Working at Amazon Device OS Team for building new frontend framework for Amazon devices by extending React Native to support Amazon Devices operating system like Amazon Alexa Echo, Echo Show, FireTV etc.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-1chm2gf-MuiTypography-root"
+                        >
+                          Building core and complex common React Native components library for 2P and 3P developers for Amazon Devices operating system.
+                        </p>
+                      </li>
+                      <li
+                        style="text-align: justify;"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 css-1chm2gf-MuiTypography-root"
+                        >
+                          Build a SVG rendering library from Scratch like react-native-svg for Amazon Devices operating system using React Native and C++.
                         </p>
                       </li>
                     </ul>
