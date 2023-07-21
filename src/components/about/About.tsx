@@ -83,7 +83,7 @@ const About = forwardRef((_, ref) => (
       </Grid>
       <Grid item sm={6}>
         <Typography textAlign="justify">
-          I&apos;m a full stack software engineer having almost 3 years of
+          I&apos;m a full stack software engineer having almost 4+ years of
           experience developing and delivering which are handling millions of
           users daily. I have a deep interest and passion for technology. I love
           writing and owning codes and enjoy working with people who will keep

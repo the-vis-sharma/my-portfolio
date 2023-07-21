@@ -17,7 +17,11 @@ const companies: Company[] = [
     location: "Bangalore, IN",
     description:
       "Amazon.com, Inc. is an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Meta, and Microsoft.",
-    accomplishments: ["Working on Next Big Thing"],
+    accomplishments: [
+      "Working at Amazon Device OS Team for building new frontend framework for Amazon devices by extending React Native to support Amazon Devices operating system like Amazon Alexa Echo, Echo Show, FireTV etc.",
+      "Building core and complex common React Native components library for 2P and 3P developers for Amazon Devices operating system.",
+      "Build a SVG rendering library from Scratch like react-native-svg for Amazon Devices operating system using React Native and C++."
+    ],
     duration: "Jan 2022 - Present",
   },
   {
