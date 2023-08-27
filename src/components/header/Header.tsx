@@ -73,7 +73,7 @@ const StyledName = styled(Typography)`
 const Header: React.FunctionComponent = () => {
   useEffect(() => {
     const typed = new Typed(".positions", {
-      strings: ["Developer", "Architecture", "Engineer", "Consultant"],
+      strings: ["Developer", "Architect", "Engineer", "Consultant"],
       startDelay: 300,
       typeSpeed: 130,
       backSpeed: 50,
